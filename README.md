@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Oofiee
 - 👀 I’m interested in running, custom keyboards and coding
-- 🌱 I’m currently a student taking Diploma of Information Technology at POLIMAS
+- 🌱 I’m currently a student taking IT Game Technology in UTeM
 - 📫 How to reach me? oofiechan@Discord
-- 😄 Pronouns: fu/mo
 - ⚡ "Fu + Mo = FuMo" - Hajah Prof. Dr. Dato Tan Sri Cirno
 
 <!---
